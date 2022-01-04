@@ -59,6 +59,7 @@ videos that facilitate their study, providing an auditory component. On the othe
     - [Flashcards](#flashcards)
     - [End your study session](#end-your-study-session)
     - [Edit your profile](#edit-your-profile)
+  - [Acknowledgements](#acknowledgements)
   - [License](#license)
 
 
@@ -92,7 +93,7 @@ SYNDEO was developed by:
 - Rotondaro, Lucas Daniel
 - Brambilla, Roman Darío
 
-<img src="ImagenesRepo/Integrantes.png">
+<img src="ImagenesRepo\integrantes.png">
 
 SYNDEO consists of two part:
 - The application itself. (This repository)
@@ -262,7 +263,7 @@ Now you'll
 
 
 
-<img src="#Acknowledgements">
+## Acknowledgements
 
 ---
 
