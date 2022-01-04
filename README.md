@@ -15,7 +15,7 @@ videos that facilitate their study, providing an auditory component. On the othe
 
 <div align="center">
 
-![Imgur](/ImagenesRepo/imagenesLogoSyndeo/SYNDEO%20COLOR.svg)
+<img src="ImagenesRepo/imagenesLogoSyndeo/SYNDEO%20COLOR.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +59,6 @@ videos that facilitate their study, providing an auditory component. On the othe
     - [Flashcards](#flashcards)
     - [End your study session](#end-your-study-session)
     - [Edit your profile](#edit-your-profile)
-  - [Acknowledgements](#acknowledgements)
   - [License](#license)
 
 
@@ -77,7 +76,7 @@ videos that facilitate their study, providing an auditory component. On the othe
 
 ## Why Syndeo was born?
 
-![Logo Syndeo](ImagenesRepo/imagenesLogoSyndeo/LOGO%20AZUL.svg)
+<img src="ImagenesRepo/imagenesLogoSyndeo/LOGO%20AZUL.svg">
 
 
 SYNDEO was part of our Information System Engineering Thesis (Proyecto Final de Grado in spanish) at the Universidad Tecnológica Nacional - U.T.N. (in english: National Technological University), in Villa María, Córdoba, Argentina.
@@ -93,7 +92,7 @@ SYNDEO was developed by:
 - Rotondaro, Lucas Daniel
 - Brambilla, Roman Darío
 
-![Integrantes](ImagenesRepo/Integrantes.png)
+<img src=ImagenesRepo/Integrantes.png">
 
 SYNDEO consists of two part:
 - The application itself. (This repository)
@@ -166,7 +165,7 @@ python manage.py runserver
 
 ### *Add support for more languages:*
 This project uses the IBM Watson API, to translate and generate the audio.
-![Ibm Watson](ImagenesRepo\IBMwatsonLogo.png)
+<img src="ImagenesRepo\IBMwatsonLogo.png">
 
 With and empty database, the app does not know witch languages are available, feel free to add the following with the Django Admin:
 
@@ -217,53 +216,53 @@ Now you'll
 ## Showcase
 
 ### Home
-![Home](ImagenesRepo\1Home.png)
+<img src="ImagenesRepo\1Home.png">
 
 ### Login
-![Login](ImagenesRepo\2login.png)
+<img src="ImagenesRepo\2login.png">
 
 ### Sign Up
-![Sign Up](ImagenesRepo\3SignUp.png)
+<img src="ImagenesRepo\3SignUp.png">
 
 ### Progress
-![Progreso](ImagenesRepo\4Progreso.png)
+<img src="ImagenesRepo\4Progreso.png">
 
 ### Help for the progress section
-![Progress tour](ImagenesRepo\4.1ProgresoAyuda.png)
+<img src="ImagenesRepo\4.1ProgresoAyuda.png">
 
 ### Library
-![Library](ImagenesRepo\5Biblioteca.png)
+<img src="ImagenesRepo\5Biblioteca.png">
 
 ### Study/reading section
-![Study/reading section](ImagenesRepo\6texto.png)
+<img src="ImagenesRepo\6texto.png">
 
 ### Help for the study section
-![Help for the study section](ImagenesRepo\6.1textoAyuda.png)
+<img src="ImagenesRepo\6.1textoAyuda.png">
 
 ### Vocabulary
-![Vocabulary](ImagenesRepo\7Vocabulario.png)
+<img src="ImagenesRepo\7Vocabulario.png">
 
 ### Export PDF
-![Export PDF](ImagenesRepo\8ExportarPDF.png)
+<img src="ImagenesRepo\8ExportarPDF.png">
 
 ### PDF Sample
-![PDF Sample](ImagenesRepo\9PDF.png)
+<img src="ImagenesRepo\9PDF.png">
 
 ### Config your Flashcard session
-![Config your Flashcard lessons](ImagenesRepo\10PreFlashcards.png)
+<img src="ImagenesRepo\10PreFlashcards.png">
 
 ### Flashcards
-![FlashCards](ImagenesRepo\11Flash.png)
+<img src="ImagenesRepo\11Flash.png">
 
 ### End your study session
-![End your study session](ImagenesRepo\12FinFlash.png)
+<img src="ImagenesRepo\12FinFlash.png">
 
 ### Edit your profile
-![Edit your profile](ImagenesRepo\13EditarPerfil.png)
+<img src="ImagenesRepo\13EditarPerfil.png">
 
 
 
-## [Acknowledgements](#Acknowledgements)
+<img src="#Acknowledgements">
 
 ---
 
