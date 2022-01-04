@@ -92,7 +92,7 @@ SYNDEO was developed by:
 - Rotondaro, Lucas Daniel
 - Brambilla, Roman Darío
 
-<img src=ImagenesRepo/Integrantes.png">
+<img src="ImagenesRepo/Integrantes.png">
 
 SYNDEO consists of two part:
 - The application itself. (This repository)
