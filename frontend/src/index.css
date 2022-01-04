@@ -1,0 +1,148 @@
+main {
+	/* aca lo que hago es que el main sea el 80 porciento de la paguina <head> - 80 <main> - <footer>*/
+	min-height: 78vh;
+}
+
+h1 {
+	font-size: 1.8rem;
+	padding: 1rem 0;
+}
+
+h2 {
+	font-size: 1.4rem;
+	padding: 0.5rem 0;
+}
+
+h3 {
+	padding: 1rem 0;
+}
+
+.rating {
+	margin: 0.1rem;
+}
+
+#sel2 {
+	font-family: "Nunito Sans", "Titillium Web", sans-serif;
+}
+
+.react-bootstrap-table-page-btns-ul {
+	position: absolute;
+	right: 0;
+}
+
+.swal2-confirm {
+	/* espacio entre el boton de confirmar y cancelar del sweet alert, para eliminar el texto */
+	margin-right: 1em;
+}
+
+p#sel2 span:hover {
+	background: #fcf8e3;
+	cursor: pointer;
+}
+
+.react-datepicker-wrapper {
+	width: 100%;
+}
+
+.error {
+	width: 100%;
+	color: #d9534f;
+	margin-top: 0.25rem;
+	font-size: 80%;
+}
+.react-bootstrap-table table {
+	table-layout: auto;
+}
+
+.cambiar-color-random {
+	animation: cambiar-color-random 1.5s step-end infinite;
+}
+
+@keyframes cambiar-color-random {
+	0% {
+		color: red;
+	}
+	20% {
+		color: green;
+	}
+	40% {
+		color: orange;
+	}
+	60% {
+		color: blue;
+	}
+	80% {
+		color: black;
+	}
+}
+
+.cambiar-color-random-sin-azul {
+	animation: cambiar-color-random 1.5s step-end infinite;
+}
+
+@keyframes cambiar-color-random-sin-azul {
+	0% {
+		color: red;
+	}
+	25% {
+		color: green;
+	}
+	50% {
+		color: orange;
+	}
+
+	75% {
+		color: black;
+	}
+}
+.table-bordered tbody:nth-of-type(1) {
+	visibility: collapse;
+}
+
+.tabla-sin-bordes-en-el-footer table tfoot tr th {
+	border: 0ch !important;
+}
+
+blockquote {
+	margin: 0 auto;
+	padding: 1em;
+	border-left: 5px solid #999;
+}
+blockquote:before {
+	display: none;
+}
+blockquote:not(:first-of-type) {
+	margin-top: 0.5em;
+}
+blockquote p {
+	color: #555;
+	font-size: 12pt;
+	line-height: 1.4;
+	font-family: "PT Serif", Cambria, "Hoefler Text", Utopia, "Liberation Serif",
+		"Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+blockquote footer {
+	margin-top: 0.5em;
+	padding: 0;
+	color: #777;
+	font-size: 12pt;
+	text-align: left;
+	font-style: italic;
+}
+blockquote footer:before {
+	content: "— ";
+}
+blockquote:nth-of-type(even) {
+	text-align: right;
+	border-left: none;
+	border-right: 5px solid #999;
+}
+blockquote:nth-of-type(even) footer {
+	text-align: right;
+}
+blockquote:nth-of-type(even) footer:before {
+	content: "";
+}
+blockquote:nth-of-type(even) footer:after {
+	content: " —";
+}

@@ -1,0 +1,47 @@
+.vscode/
+.vscode
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+frontend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+backend/base/urls/__pycache__/*
+backend/base/views/__pycache__/*
+backend/backend/__pycache__/*
+backend/base/__pycache__/*
+backend/base/migrations/__pycache__/*
+backend/base/urls/__pycache__/*
+backend/base/views/__pycache__/*
+backend/static/media/*
+
+# cosas de la base de datos archivos en MEDIA
+backend/static/media/images/*
+backend/static/media/CACHE/*
+
+
+
+
+
+#Para hacer garabatos en python
+borrador.py

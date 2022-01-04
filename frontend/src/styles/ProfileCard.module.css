@@ -1,0 +1,136 @@
+.ProfileCard {
+	/* 	width: 80vw; */
+	border-radius: 20px !important;
+	border: none !important;
+}
+.ProfileCardMobile {
+	/* width: 80vw; */
+	border-radius: 20px !important;
+	border: none !important;
+}
+
+.ProfileCardBody {
+	padding-top: 4.5rem !important;
+	padding-bottom: 2rem !important;
+}
+
+.ProfileCardBackgroundImage {
+	height: 200px;
+	border-top-left-radius: 5px !important;
+	border-top-right-radius: 5px !important;
+	object-fit: cover; /* para que no te lo estire y quede feo */
+	object-position: 100% 0; /* como no se estira la imagen, con esto seleccionamos los ejes "x" y "y" */
+}
+
+.ProfileCardBackgroundImageMobile {
+	/* width: 82vw; */
+	height: 200px;
+	border-top-left-radius: 5px !important;
+	border-top-right-radius: 5px !important;
+	object-fit: cover; /* para que no te lo estire y quede feo */
+	object-position: 50% 0; /* como no se estira la imagen, con esto seleccionamos los ejes "x" y "y" */
+}
+
+.ProfileCardImage {
+	/* HASTA ACA ANDA TODO BIEN */
+	width: 150px !important;
+	height: 150px !important;
+	/* margin: auto; */
+	/* position: absolute; */
+	top: 120px;
+	/* left: 45%; */
+	border: 5px white solid;
+	border-radius: 40px !important;
+
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 1;
+}
+
+.ProfileCardImageMobile {
+	width: 150px !important;
+	height: 150px !important;
+	/* margin: auto; */
+	/* position: absolute; */
+	top: 120px;
+	/* left: 25vw; */
+	border: 5px white solid;
+	border-radius: 40px !important;
+
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 1;
+}
+
+.TextMuted {
+	text-align: center;
+	font-weight: 400px !important;
+	padding-left: 0vw;
+	color: hsl(0, 0%, 59%);
+}
+
+.TextBold {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.TextMutedMobile {
+	text-align: center;
+	font-weight: 10;
+	margin-right: 0vw;
+	color: hsl(0, 0%, 59%);
+	margin-left: 0px;
+	padding-right: 0;
+}
+
+.TextBoldMobile {
+	text-align: center;
+
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.CardFooter {
+	/* 	width: 71vw;
+ */
+	background-color: white !important;
+	border-bottom-left-radius: 15px !important;
+	border-bottom-right-radius: 15px !important;
+}
+
+.CardFooterMobile {
+	/* width: 85vw; */
+	background-color: white !important;
+	border-bottom-left-radius: 15px !important;
+	border-bottom-right-radius: 15px !important;
+}
+
+.FooterP {
+	margin-bottom: 0;
+	margin-top: 0.5rem;
+}
+
+.Padding {
+	/* 	padding-right: 12.7vw;
+ */
+}
+.PaddingMobile {
+	/* padding-left: 0vw !important;
+	margin-right: 8vw; */
+}
+
+.Descripcion {
+	text-align: center !important;
+	/* padding-right: 12vw !important; */
+}
+.DescripcionMobile {
+	text-align: center !important;
+	/* padding-right: 0; */
+}

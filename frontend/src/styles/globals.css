@@ -1,0 +1,31 @@
+.section {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	position: relative;
+}
+
+.titulo-css {
+	color: #1d71b8 !important;
+	font-size: 1.5em;
+}
+
+#imagen-con-movimiento {
+	-webkit-animation: mover 2s infinite alternate;
+	animation: mover 2s infinite alternate;
+}
+@-webkit-keyframes mover {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(-20px);
+	}
+}
+@keyframes mover {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(-20px);
+	}
+}
