@@ -97,7 +97,7 @@ SYNDEO was developed by:
 
 SYNDEO consists of two part:
 - The application itself. (This repository)
-- Project Management Document. You can find the PDF in this repo as well, or clicking [Here!](ImagenesRepo\Thesis.pdf)
+- Project Management Document. You can find the PDF in this repo as well, or clicking [Here!](https://github.com/francofgp/Syndeo/blob/main/ImagenesRepo/Thesis.pdf)
 
 Disclaimer: *Since the project took place in an argentinean university, the whole project is in spanish*
 
