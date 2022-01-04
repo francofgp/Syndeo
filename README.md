@@ -185,7 +185,7 @@ Note: <em> Add them in spanish, not in english, for instance,add **Ruso** and no
 
 How it should look like in your admin panel:
 
-![Django Admin Panel Idiomas](ImagenesRepo\DjangoAdmin.png)
+![Django Admin Panel Idiomas](ImagenesRepo%5CDjangoAdmin.png)
 
 ### Change the API Keys with yours
 
