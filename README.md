@@ -6,7 +6,7 @@
 <br>
 
 <div align="justify">
-Syndeo is a web platform oriented to a certain sector of the population, which we define as "self-taught". which we define as "self-taught".
+SYNDEO is a web platform oriented to a certain sector of the population, which we define as "self-taught".
 It is oriented to satisfy the needs related to the linguistic reading and learning of different languages, assuming that the potential user already possesses the necessary knowledge of the language.
 different languages, assuming that the potential user already has some basic knowledge of the language to be reinforced. basic knowledge of the language to be reinforced.
 The user will be able to upload the texts or articles he/she wishes to read, with the possibility of adding videos to facilitate their study.
@@ -15,7 +15,7 @@ videos that facilitate their study, providing an auditory component. On the othe
 
 <div align="center">
 
-<img src="ImagenesRepo/imagenesLogoSyndeo/SYNDEO%20COLOR.svg">
+<img src="ImagenesRepo/imagenesLogoSYNDEO/SYNDEO%20COLOR.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,8 +34,8 @@ videos that facilitate their study, providing an auditory component. On the othe
 - [SYNDEO, WHERE LEARNING BECOMES FUN.](#syndeo-where-learning-becomes-fun)
     - [**What is Syndeo all about?**](#what-is-syndeo-all-about)
   - [Table of contents](#table-of-contents)
-  - [Syndeo Features](#syndeo-features)
-  - [Why Syndeo was born?](#why-syndeo-was-born)
+  - [SYNDEO Features](#syndeo-features)
+  - [Why SYNDEO was born?](#why-syndeo-was-born)
     - [About US](#about-us)
     - [What is PMBOK?](#what-is-pmbok)
     - [We decided to open source SYNDEO](#we-decided-to-open-source-syndeo)
@@ -63,7 +63,7 @@ videos that facilitate their study, providing an auditory component. On the othe
   - [License](#license)
 
 
-## Syndeo Features
+## SYNDEO Features
 
 |   Login and registration| Library | Translations  |
 | :----: | :-------: | :----: |
@@ -75,7 +75,7 @@ videos that facilitate their study, providing an auditory component. On the othe
 | Each user can save words in their own vocabulary. | Vocabulary review through flashcards. | Possibility to export the vocabulary to PDF.| 
 
 
-## Why Syndeo was born?
+## Why SYNDEO was born?
 
 <img src="ImagenesRepo/imagenesLogoSyndeo/LOGO%20AZUL.svg">
 
@@ -86,7 +86,7 @@ SYNDEO was part of our Information System Engineering Thesis (Proyecto Final de 
 
 DreamTeam™ (our team name) was born in 2017 in the interior of Córdoba, more precisely in the town of Villa María. This team was maintained throughout our passage through the U.T.N.
 
-Reaching the end of this cycle, and to put a brooch at the height of our passage through this house of studies, is why Syndeo is born.
+Reaching the end of this cycle, and to put a brooch at the height of our passage through this house of studies, is why SYNDEO is born.
 SYNDEO was developed by:
 
 - Pértile, Franco Giuliano
@@ -205,6 +205,11 @@ cd frontend
 npm install
 npm start
 ```
+
+On another terminal, to run the backend, enter the following command:
+```bash
+python manage.py runserver
+```
 Then if you want build the frontend, and to be reflected in django, you have to enter the following command:
 
 ```bash
@@ -212,7 +217,7 @@ cd frontend
 npm build
 ```
 
-Now you'll 
+Now you'll have all your static files served by django, and a build ready to deploy on heroku for instance.
 
 ## Showcase
 
