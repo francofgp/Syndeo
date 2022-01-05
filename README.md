@@ -15,7 +15,7 @@ videos that facilitate their study, providing an auditory component. On the othe
 
 <div align="center">
 
-<img src="ImagenesRepo/imagenesLogoSYNDEO/SYNDEO%20COLOR.svg">
+<img src="ImagenesRepo/imagenesLogoSyndeo/SYNDEO%20COLOR.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
