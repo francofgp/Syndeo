@@ -59,6 +59,7 @@ videos that facilitate their study, providing an auditory component. On the othe
     - [Flashcards](#flashcards)
     - [End your study session](#end-your-study-session)
     - [Edit your profile](#edit-your-profile)
+  - [Demo](#demo)
   - [Acknowledgements](#acknowledgements)
   - [License](#license)
 
@@ -266,6 +267,21 @@ Now you'll have all your static files served by django, and a build ready to dep
 ### Edit your profile
 <img src="ImagenesRepo\13EditarPerfil.png">
 
+
+## Demo
+
+The demo is divided into 4 parts
+
+https://user-images.githubusercontent.com/70602890/175852009-35b97454-2eb5-4d98-8cc4-582b10422374.mp4
+
+
+https://user-images.githubusercontent.com/70602890/175852013-7e226c48-a712-426c-8f8a-b49029d36108.mp4
+
+
+https://user-images.githubusercontent.com/70602890/175852021-9e9d8fa1-b255-495d-b272-e9207d205269.mp4
+
+
+https://user-images.githubusercontent.com/70602890/175852024-1e17bfda-8972-4e1d-8b7d-7f02942de6a4.mp4
 
 
 ## Acknowledgements
